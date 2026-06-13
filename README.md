@@ -42,7 +42,7 @@ This repository contains the starting files and assets used throughout the lectu
 | Materials | Unity materials |
 | Scenes | Unity scenes |
 | Scripts | Gameplay scripts |
-| Sprites | Car, road, arrow, and target sprites |
+| Sprites | Kenney Sprites |
 
 ---
 
